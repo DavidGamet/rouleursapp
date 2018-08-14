@@ -1,11 +1,15 @@
 class StaticPagesController < ApplicationController
+
+  def home
+  end
+
   def voyages
   end
 
   def prestations
   end
 
-  def vidéos/photos
+  def videos
   end
 
   def guide
